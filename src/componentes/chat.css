@@ -1,0 +1,47 @@
+.til{
+    font-family: cursive;
+    font-size:1cm;
+}
+
+.til1{
+    font-family: cursive;
+    font-size:1cm;
+    color:crimson;
+    text-justify: auto;
+}
+
+.peque{
+    font-size: 12px;
+    font-family:fantasy;
+    text-align: right;
+    position: relative;
+}
+
+.peque1{
+    font-size: 12px;
+    font-family:fantasy;
+    text-align: left;
+    position: relative;
+}
+
+.chat{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 10px;
+    border-radius: 25px;
+    background-color: #ee82ee;
+    padding: 10px;
+    position: relative;
+    font-family: monospace;
+}
+
+.chat1{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 10px;
+    border-radius: 25px;
+    background-color:#40e0d0;
+    padding: 10px;
+    position: relative;
+    font-family: monospace;
+}
